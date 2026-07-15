@@ -18,7 +18,7 @@ A mod for Gorilla Tag that lets you ragdoll like Garry's Mod, but with sounds.
 * Drag the file `RagdollMod.dll` to your plugins folder
 * Start Gorilla Tag
 * Close out of Gorilla Tag
-* Add Sounds inside of RagdollMod found inside Gorilla Tag folder
+* Add Sounds inside of RagdollMod found inside Gorilla Tag folder (Only works with .wav files not mp3 files or any other)
 * Start Gorilla Tag again
 * Use P to switch settings and change through different sounds
 
